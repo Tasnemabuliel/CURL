@@ -1,29 +1,31 @@
- Summary of Extracted Data – Sat May 24 17:31:52 IDT 2025
+ Summary of Extracted Data – Mon May 26 01:32:41 IDT 2025
 --------------------------------------
  Date:
- No Date found.
+2025-05-26T01:32:41.8305272
 
  IP Address:
- No IP Address found.
+5.29.14.86
 
  Headline:
- No Headline found.
+BBC News - Breaking news, video and the latest top stories from the U.S. and around the world
 
  Download Link:
- No Download Link found.
+ No Download Link found or site uses JS.
 
  Tutorial Title:
- No Tutorial Title found.
+Tutorial
 
  Student Names:
-Helvetica Neue
-Noto Sans
-Apple Color
-Noto Color
+Debbie Pena
+Ruben Wade
+Gloria Boyd
+Emma Lambert
+Sergio White
 
  NFT Jobs:
- No NFT Jobs found.
 
  Books:
- No Books found.
+Software Testing
+Software Testing
+Mastering Non-Functional Requirements
 
